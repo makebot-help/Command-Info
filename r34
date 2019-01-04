@@ -3,7 +3,7 @@ Searches rule34 for the tags you provided.
 ----------------------------------------------
 Experiencing a problem with this command?
 
-m.r34 (tag(s) here) searches rule34for the tags you suggested. It's an embed that returns only the tag(s) you searched for in the author name and a random picture it pulled from the results of what it searched. Spaces are treated as seperate tags, so if what you're looking for has a space in it (ex. Kanna Kamui), make sure to replace the space with an underscore (ex. Kanna_Kamui). If you misspell a tag or try to search for a tag that doesn't exist, it'll suspend the command and not return a response.
+m.r34 (tag(s) here) searches rule34 for the tags you suggested. It's an embed that returns only the tag(s) you searched for in the author name and a random picture it pulled from the results of what it searched. Spaces are treated as seperate tags, so if what you're looking for has a space in it (ex. Kanna Kamui), make sure to replace the space with an underscore (ex. Kanna_Kamui). If you misspell a tag or try to search for a tag that doesn't exist, it'll suspend the command and not return a response.
 ----------------------------------------------
 
 (These docs are to address issues in certain commands that are currently being fixed. Please don't report the issues that are mentioned in them)
