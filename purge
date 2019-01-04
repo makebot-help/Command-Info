@@ -1,1 +1,9 @@
 Deletes the number of messages you specified.
+
+----------------------------------------------
+Experiencing a problem with this command?
+
+m.purge (number of messages you want deleted all at once) deletes the number of messages you put. The maximum amount of messages it can delete all at once is 100. If you put a number over 100 or put a letter where a number is supposed to be, it'll still return "Successfully purged (whatever you put) messages", but nothing will be deleted.
+----------------------------------------------
+
+(This extra info that's added to certain commands is to address common issues that are currently being fixed. Please don't report the issues that are mentioned in them.)
