@@ -1,0 +1,1 @@
+Creates a new role with the name and HEX formatted color you provided. If you don't provide a proper HEX color, it'll just make the role's color black.
