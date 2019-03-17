@@ -1,9 +1,0 @@
-Sends whatever you put to the creator when you confirm you want to send it.
-
-----------------------------------------------
-Experiencing a problem with this command?
-
-m.feedback (input here) sends whatever you put to the creator of the bot. It's an embed that asks if you're sure if you want to send whatever you put to the creator, and will warn you that you can potentially be blacklisted depending on what you put. It'll then add a checkmark emoji to your message, but as long as you don't click it, nothing will be sent, otherwise if you do, what you said will be sent. Attachments aren't supported at the moment, but links are.
-----------------------------------------------
-
-(This extra info that's added to certain commands is to address common issues that are currently being fixed. Please don't report the issues that are mentioned in them.)
