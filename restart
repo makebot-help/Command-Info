@@ -1,0 +1,1 @@
+Restarts the bot. Only the developer can use this command, and if anyone else tries to use it, it will just return an error.
