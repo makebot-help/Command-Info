@@ -1,1 +1,1 @@
-Warns the user you mentioned and DMs them about it, telling them the reason why you muted them if you put one.
+Warns the user you mentioned. The reciever is then sent a DM that includes how they've been warned in the server you warned them in, including who warned them and why if a reason was put.
