@@ -1,1 +1,1 @@
-Searches Google Images for the query you provided and sends the first result.
+Searches Google Images for the query you provided on the page number you chose and sends the result. If you don't choose a page number, it just chooses the first result.
