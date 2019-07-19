@@ -1,1 +1,9 @@
-Searches the /r/puppy subreddit and returns a random image.
+# m.doggo
+
+#### Description
+
+Searches r/puppy and returns a random picture taken from the subreddit.
+
+#### Example
+
+> m.doggo
