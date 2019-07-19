@@ -1,1 +1,9 @@
-Searches the /r/sneks subreddit and returns a random image.
+# m.snek
+
+#### Description
+
+Searches r/sneks and returns a random picture taken from the subreddit.
+
+#### Example
+
+> m.snek
