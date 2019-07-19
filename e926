@@ -1,1 +1,9 @@
-Searches e926 for the tags you provided.
+# m.e926
+
+#### Description
+
+Searches tags of your choice on e926 and returns a random result.
+
+#### Example
+
+> m.e926 furry
