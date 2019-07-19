@@ -1,1 +1,9 @@
-Restarts the bot. Only the developer can use this command, and if anyone else tries to use it, it will just return an error.
+# m.restart
+
+#### Description
+
+Restarts makebot. This command is for administrators only, so regular users have no access to this command.
+
+#### Example
+
+> m.restart
