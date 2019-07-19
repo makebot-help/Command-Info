@@ -1,6 +1,9 @@
 # Updates
 
-### V 2.0 (Minor)
+###### Makebot's last update: 7/18/19, 2019 Build Update
+###### GitHub's last update: 7/19/2019 at 2:13 PM
+
+### 2019 Build Update Log (Minor)
 
 > Summary: Mostly visual updates.
 
@@ -13,3 +16,14 @@
 * Edited every single command description to be easier to read.
 * Put said command descriptions in folders to be more organized.
 * Added an Updates file to document updates, starting 7/19/2019 at 2:01 AM.
+
+### 2019 Build Update Log 2 (Minor)
+
+> Summary: Minor updates to the GitHub page.
+
+#### Code Changes
+* None.
+
+#### GitHub Changes
+* Edited [m.play](https://github.com/makebot-help/Command-Info/edit/master/music/play.md) to mention a known bug that can happen if makebot is disconnected.
+* Updated the Updates file.
