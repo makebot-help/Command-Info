@@ -12,4 +12,4 @@
 #### GitHub Changes
 * Edited every single command description to be easier to read.
 * Put said command descriptions in folders to be more organized.
-* Added an Update List file to document updates, starting 7/19/2019 at 2:01 AM.
+* Added an Updates file to document updates, starting 7/19/2019 at 2:01 AM.
