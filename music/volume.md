@@ -6,4 +6,4 @@ Shows the current volume of what's playing. If you put a number after m.volume, 
 
 #### Examples
 
-> m.volume or m.volume 10
+> m.volume *or* m.volume 10
