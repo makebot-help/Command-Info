@@ -2,7 +2,7 @@
 
 #### Description
 
-Ask a question starting with m.8ball and ending with a question mark (?) and makebot will answer with yes or no answers,
+Ask a question starting with m.8ball and ending with a question mark (?) and makebot will answer with a variety of yes or no answers.
 
 #### Example
 
