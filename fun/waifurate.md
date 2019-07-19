@@ -2,7 +2,7 @@
 
 #### Description
 
-Rates your waifu on a scale of 1-100.
+Rates your waifu on a scale of 10-100.
 
 #### Example
 
