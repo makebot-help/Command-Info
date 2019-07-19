@@ -1,1 +1,0 @@
-Deletes the number of messages you specified as long as said number is under 100 and the messages to delete are under 2 weeks old due to Discord rate limits.
