@@ -25,6 +25,6 @@
 * None.
 
 #### GitHub Changes
-* Edited [m.play](https://github.com/makebot-help/Command-Info/edit/master/music/play.md) to mention a known bug that can happen if makebot is disconnected.
+* Edited [m.play](https://github.com/makebot-help/Command-Info/blob/master/music/play.md) to mention a known bug that can happen if makebot is disconnected.
 * Updated the Updates file (INVALID, SEE BELOW. v)
 * Replaced the Updates file with this README.md file so it shows up at the front page.
