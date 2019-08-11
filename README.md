@@ -17,7 +17,7 @@
 * Put said command descriptions in folders to be more organized.
 * Added an Updates file to document updates, starting 7/19/2019 at 2:01 AM.
 
-### 2019 Build Update Log 2 (Major)
+### 2019 Build Update Log 2 (Minor)
 
 > Summary: Minor updates to the GitHub page.
 
