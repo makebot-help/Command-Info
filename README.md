@@ -35,7 +35,7 @@
 
 #### Code Changes
 * Merged both the NSFW and the SFW commands together. Now if you type out the NSFW variant of a command, if there is a SFW alternative, makebot will instead search that. Otherwise if there is no alternative, that command will only work in an NSFW channel. (ex. m.gel in a sfw channel searches Safebooru instead.)
-* Deleted the code for all non-search NSFW commands because you could search the tags used for those commands on the sites they use.
+* Deleted the code for all non-search NSFW commands because you could search the tags used for those commands on the sites they search for said tags on.
 * Wiped the SFW help page clean and instead added a link redirecting to [here](https://github.com/makebot-help/Command-Info/blob/master/sfw/what_changed.md)
 
 #### GitHub Changes
