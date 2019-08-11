@@ -29,7 +29,7 @@
 * Updated the Updates file (INVALID, SEE BELOW. v)
 * Replaced the Updates file with this README.md file so it shows up at the front page.
 
-### 2019 Build Update Log 2 (Major)
+### 2019 Build Update Log 3 (Major)
 
 > Summary: Major code updates that changes lots of things.
 
