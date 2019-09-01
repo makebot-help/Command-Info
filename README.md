@@ -1,7 +1,7 @@
 # Updates
 
-###### Makebot's last update: 8/11/19, 2019 Build Update
-###### GitHub's last update: 8/11/2019 at 3:01 PM
+###### Makebot's last update: 8/31/19, 2019 Build Update
+###### GitHub's last update: 8/31/2019 at 11:44 PM
 
 ### 2019 Build Update Log (Minor)
 
@@ -41,3 +41,13 @@
 #### GitHub Changes
 * Deleted all the documentation for all SFW commands.
 * Deleted all the documentation for all non-search NSFW commands.
+
+### 2019 Build Update Log 4 (Major(?))
+
+> Summary: 1 new command is introduced.
+
+#### Code Changes
+* Added an [m.purple](https://github.com/makebot-help/Command-Info/blob/master/fun/purple.md) command.
+
+#### GitHub Changes
+* Added documentation for said command above.
