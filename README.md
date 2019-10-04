@@ -1,7 +1,7 @@
 # Updates
 
-###### Makebot's last update: 8/31/19, 2019 Build Update
-###### GitHub's last update: 8/31/2019 at 11:44 PM
+###### Makebot's last update: 10/4/19, 2019 Build Update
+###### GitHub's last update: 10/4/2019 at 1:03 PM
 
 ### 2019 Build Update Log (Minor)
 
@@ -51,3 +51,15 @@
 
 #### GitHub Changes
 * Added documentation for said command above.
+
+### 2019 Build Update Log 5 (Major(?))
+
+> Summary: 1 new command is introduced, 1 useless help page has been deleted.
+
+#### Code Changes
+* Added an [m.paheal](https://github.com/makebot-help/Command-Info/blob/master/nsfw/paheal.md) command.
+* Deleted the SFW help page, as there's no use for it anymore.
+
+#### GitHub Changes
+* Added documentation for said command above.
+* Deleted the SFW folder.
