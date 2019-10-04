@@ -9,4 +9,4 @@ There is no SFW alternative that can be activated by using the command in a SFW 
 
 #### Example
 
-> m.e621 furry
+> m.paheal rule_63
