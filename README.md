@@ -1,7 +1,7 @@
 # Updates
 
 ###### Makebot's last update: 10/4/19, 2019 Build Update
-###### GitHub's last update: 10/4/2019 at 1:03 PM
+###### GitHub's last update: 10/4/2019 at 9:42 PM
 
 ### 2019 Build Update Log (Minor)
 
@@ -63,3 +63,14 @@
 #### GitHub Changes
 * Added documentation for said command above.
 * Deleted the SFW folder.
+
+### 2019 Build Update Log 6 (Minor)
+
+> Summary: The Help command has been revamped, welcome message actually works now.
+
+#### Code Changes
+* Revamped the m.help command, now every command is in one embed instead of seperated into help pages.
+* The welcome message meant to be sent when it first joins a server works properly now.
+
+#### GitHub Changes
+None.
