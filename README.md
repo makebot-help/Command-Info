@@ -1,6 +1,6 @@
 # Updates
 
-###### Makebot's last update: 10/4/19, 2019 Build Update
+###### Makebot's last update: 10/12/19, 2019 Build Update
 ###### GitHub's last update: 10/12/2019 at 6:17 PM
 
 ### 2019 Build Update Log (Minor)
