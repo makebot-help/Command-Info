@@ -80,7 +80,7 @@ None.
 > Summary: Some of the music commands need to have the user have a specific permission to work.
 
 #### Code Changes
-* m.skip, m.leave, m.volume, m.pause and m.resume can only be used by users with the "Manage Server" permission.
+* m.skip, m.leave, m.volume, m.pause, and m.resume can only be used by users with the "Manage Server" permission.
 
 #### GitHub Changes
 None.
