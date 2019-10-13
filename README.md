@@ -1,7 +1,7 @@
 # Updates
 
 ###### Makebot's last update: 10/4/19, 2019 Build Update
-###### GitHub's last update: 10/4/2019 at 9:42 PM
+###### GitHub's last update: 10/12/2019 at 6:17 PM
 
 ### 2019 Build Update Log (Minor)
 
@@ -71,6 +71,16 @@
 #### Code Changes
 * Revamped the m.help command, now every command is in one embed instead of seperated into help pages.
 * The welcome message meant to be sent when it first joins a server works properly now.
+
+#### GitHub Changes
+None.
+
+### 2019 Build Update Log 7 (Minor)
+
+> Summary: Some of the music commands need to have the user have a specific permission to work.
+
+#### Code Changes
+* m.skip, m.leave, m.volume, m.pause and m.resume can only be used by users with the "Manage Server" permission.
 
 #### GitHub Changes
 None.
